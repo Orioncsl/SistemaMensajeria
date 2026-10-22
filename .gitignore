@@ -1,0 +1,5 @@
+# Archivos locales con datos de conexion y contrasenas
+/src/main/resources/db.properties
+
+# Archivos generados por Maven
+/target/

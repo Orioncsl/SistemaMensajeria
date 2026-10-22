@@ -1,0 +1,4 @@
+# Configuracion de conexion a Oracle
+db.url=jdbc:oracle:thin:@//localhost:1521/XEPDB1
+db.user=mensajeria
+db.password=CAMBIAR_POR_LA_CONTRASENA_LOCAL
